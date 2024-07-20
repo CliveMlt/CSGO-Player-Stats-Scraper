@@ -2,6 +2,10 @@
 
 This repository contains a script to scrape player statistics from Leetify and generate a comprehensive HTML report. The script retrieves data such as player names, rankings, ratings, and various performance metrics, and creates an HTML report with player profile images and visual charts of their performance.
 
+## Note
+
+**This script is intended for CS:GO and will not work with CS2** since Valve has removed the `status` command in CS2, which is required for this script to function. <br>As a result, the script will only work with CS:GO profiles.
+
 ## Features
 
 - Scrapes player statistics using Selenium
@@ -101,8 +105,8 @@ The script generates the following files in a timestamped folder:
     ```
     
 3. Player Data:
-    ```
-|Name        |Current Rank         |Highest Rank                 |Win Rate|Leetify Rating|T Rating|CT Rating|Aim|Utility|Positioning|Opening Duels|Clutching|FIELD13         |
+    
+|Name        |Current Rank         |Highest Rank                 |Win Rate|Leetify Rating|T Rating|CT Rating|Aim|Utility|Positioning|Opening Duels|Clutching|                |
 |------------|---------------------|-----------------------------|--------|--------------|--------|---------|---|-------|-----------|-------------|---------|----------------|
 |Tião        |Master Guardian 2    |Distinguished Master Guardian|52%     |+2.62         |+1.48   |+3.63    |57 |65     |50         |-1.04        |+13.88   |Tião.jpg        |
 |sidlejinks  |Master Guardian 1    |Master Guardian 2            |43%     |0.00          |-0.26   |+0.27    |57 |63     |43         |-0.05        |+13.32   |sidlejinks.jpg  |
@@ -116,19 +120,19 @@ The script generates the following files in a timestamped folder:
 |♕Dominance♕ |Master Guardian 2    |Master Guardian Elite        |52%     |+0.21         |-0.29   |+0.75    |59 |62     |47         |+0.19        |+11.56   |♕Dominance♕.jpg |
     
 4. Aim Values report:
-![Aim Values report](aim_values_graph.png)
+![Aim Values report](2023-08-19_16-07-16/aim_values_graph.png)
 
 5. Clutching Graph:
-![Clutching Graph](clutching_graph.png)
+![Clutching Graph](2023-08-19_16-07-16/clutching_graph.png)
 
 6. Opening Duels Graph:
-![Opening Duels Graph](opening_duels_graph.png)
+![Opening Duels Graph](2023-08-19_16-07-16/opening_duels_graph.png)
 
 7. Positioning Graph:
-![Positioning Graph](positioning_graph.png)
+![Positioning Graph](2023-08-19_16-07-16/positioning_graph.png)
 
 7. Utility Graph:
-![Utility Graph](utility_graph.png)
+![Utility Graph](2023-08-19_16-07-16/utility_graph.png)
 
 ## Troubleshooting
 
