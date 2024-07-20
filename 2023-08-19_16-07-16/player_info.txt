@@ -1,0 +1,130 @@
+Name: Tião
+Current Rank: Master Guardian 2
+Highest Rank: Distinguished Master Guardian
+Win Rate: 52%
+Leetify Rating: +2.62
+T Rating: +1.48
+CT Rating: +3.63
+Aim: 57
+Utility: 65
+Positioning: 50
+Opening Duels: -1.04
+Clutching: +13.88
+
+Name: sidlejinks
+Current Rank: Master Guardian 1
+Highest Rank: Master Guardian 2
+Win Rate: 43%
+Leetify Rating: 0.00
+T Rating: -0.26
+CT Rating: +0.27
+Aim: 57
+Utility: 63
+Positioning: 43
+Opening Duels: -0.05
+Clutching: +13.32
+
+Name: D E S E J
+Current Rank: Master Guardian 2
+Highest Rank: Distinguished Master Guardian
+Win Rate: 55%
+Leetify Rating: +0.45
+T Rating: +2.62
+CT Rating: -1.45
+Aim: 65
+Utility: 65
+Positioning: 56
+Opening Duels: +0.91
+Clutching: +12.49
+
+Name: ☠Prohundred☠
+Current Rank: Master Guardian 1
+Highest Rank: Master Guardian Elite
+Win Rate: 50%
+Leetify Rating: -0.63
+T Rating: -0.42
+CT Rating: -0.86
+Aim: 67
+Utility: 60
+Positioning: 29
+Opening Duels: -0.89
+Clutching: +6.08
+
+Name: Pako Rabani
+Current Rank: Gold Nova Master
+Highest Rank: Distinguished Master Guardian
+Win Rate: 36%
+Leetify Rating: -0.02
+T Rating: -0.65
+CT Rating: +0.76
+Aim: 78
+Utility: 61
+Positioning: 40
+Opening Duels: -0.82
+Clutching: +9.68
+
+Name: AccuNor
+Current Rank: Master Guardian 2
+Highest Rank: Legendary Eagle
+Win Rate: 29%
+Leetify Rating: -4.98
+T Rating: -4.85
+CT Rating: -5.09
+Aim: 11
+Utility: 44
+Positioning: 34
+Opening Duels: -3.84
+Clutching: +5.08
+
+Name: Aving
+Current Rank: Master Guardian 2
+Highest Rank: Supreme Master First Class
+Win Rate: 81%
+Leetify Rating: +7.18
+T Rating: +9.40
+CT Rating: +5.07
+Aim: 83
+Utility: 40
+Positioning: 40
+Opening Duels: +2.95
+Clutching: +14.28
+
+Name: JACKIE FROST
+Current Rank: Master Guardian Elite
+Highest Rank: Legendary Eagle
+Win Rate: 52%
+Leetify Rating: +1.72
+T Rating: +4.34
+CT Rating: -0.91
+Aim: 66
+Utility: 69
+Positioning: 44
+Opening Duels: -0.66
+Clutching: +14.56
+
+Name: Brx
+Current Rank: Master Guardian 2
+Highest Rank: Distinguished Master Guardian
+Win Rate: 57%
+Leetify Rating: -2.10
+T Rating: -0.28
+CT Rating: -3.75
+Aim: 63
+Utility: 57
+Positioning: 57
+Opening Duels: -1.16
+Clutching: +5.13
+
+Name: ♕Dominance♕
+Current Rank: Master Guardian 2
+Highest Rank: Master Guardian Elite
+Win Rate: 52%
+Leetify Rating: +0.21
+T Rating: -0.29
+CT Rating: +0.75
+Aim: 59
+Utility: 62
+Positioning: 47
+Opening Duels: +0.19
+Clutching: +11.56
+

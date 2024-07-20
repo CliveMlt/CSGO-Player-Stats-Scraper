@@ -1,0 +1,20 @@
+Connected to =[A:1:2865787925:24098]:0
+hostname: Valve CS:GO EU West Server (srcds405-fra2.274.121)
+version : 1.38.7.9 secure
+os      :  Linux
+type    :  official dedicated
+map     : de_mirage
+players : 10 humans, 0 bots (10/10 max) (not hibernating)
+
+# userid name uniqueid connected ping loss state rate
+#  3 2 "Wodzu" STEAM_1:0:156007386 01:09 50 0 active 196608
+#  4 3 "Johnson" STEAM_1:0:136787950 01:09 48 0 active 196608
+#  7 6 "Idk_Goga" STEAM_1:0:567440028 01:09 54 0 active 786432
+#  8 7 "♕Dominance♕" STEAM_1:0:71724654 01:09 92 0 active 786432
+#  9 8 "я бог со мной русский" STEAM_1:1:185366920 01:09 89 0 active 786432
+# 10 9 "RoGi2k💕" STEAM_1:1:149258380 01:09 91 0 active 196608
+# 11 10 "otricayou" STEAM_1:1:461303453 01:08 90 0 active 196608
+# 12 11 "Jeffrey Dahmer" STEAM_1:1:31040205 01:08 123 0 active 786432
+# 13 12 "Unique" STEAM_1:0:45500711 01:08 95 0 active 786432
+# 14 13 "☠Prohundred☠" STEAM_1:1:23643840 01:07 66 0 active 786432
+#end

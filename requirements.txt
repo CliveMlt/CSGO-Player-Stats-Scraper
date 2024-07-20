@@ -1,0 +1,10 @@
+time
+concurrent.futures
+selenium
+webdriver-manager
+re
+csv
+matplotlib
+datetime
+os
+requests
